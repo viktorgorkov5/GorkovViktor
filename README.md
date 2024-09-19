@@ -10,7 +10,8 @@
 - Сохранение музыки в своей коллекции
 ## Диаграммы
 ### Диаграмма классов
-![image](https://github.com/user-attachments/assets/b4a88577-319c-42c1-824e-d3cd9bd32714)
+![image](https://github.com/user-attachments/assets/7fd62272-9760-407b-8631-f983a922227e)
+
 
 ###
 ###
