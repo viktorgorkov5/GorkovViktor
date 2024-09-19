@@ -13,5 +13,7 @@
 ![image](https://github.com/user-attachments/assets/7fd62272-9760-407b-8631-f983a922227e)
 
 
-###
+### Диаграмма Сценария
+![image](https://github.com/user-attachments/assets/fa098c90-64b4-42c5-b5ee-c7c24856c15c)
+
 ###
